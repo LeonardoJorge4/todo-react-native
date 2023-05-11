@@ -15,7 +15,6 @@ export const theme = {
   },
   fonts: {
     regular: 'Inter_400Regular',
-    bold: 'Inter_700Bold'
-  }
-
+    bold: 'Inter_700Bold',
+  },
 };
